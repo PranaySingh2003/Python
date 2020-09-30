@@ -1,3 +1,3 @@
 def run():
-    print('Hello, Python.')
-    print("Hi, Github")
+    print('''Hello, Python.
+    Hi, Github''')
